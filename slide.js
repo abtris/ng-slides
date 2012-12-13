@@ -35,7 +35,6 @@ angular.widget('body', function(templateEl) {
       'border': '1px solid rgba(0, 0, 0, .3)',
       'border-radius': '10px',
       'box-shadow': '0 2px 6px rgba(0, 0, 0, .1)',
-      'background': 'url(img/google-logo-small.png) 710px 625px no-repeat',
       'background-color': 'white',
 
       'white-space': 'pre-line',
